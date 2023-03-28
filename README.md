@@ -1,2 +1,2 @@
 # Property-Management-System
-Group project at Object Oriented Analysis and Design course in SUSTech, 2022 Fall.
+Group project at Object Oriented Analysis and Design course in SUSTech, 2022 Fall. Based on a framework developed by Vue and .NET, using a front and back end separation mode and RESTful API, this project has designed and implemented functions such as hotel and room management, order statistics on the management side and hotel search, order management, credit system on the client side.
